@@ -4,6 +4,12 @@
 
 ![QQ Penguin Codex Pet animation preview](assets/preview.png)
 
+## 桌面效果 / Desktop Preview
+
+在 Codex 桌面中的实际显示效果。 / The pet as it appears on the Codex desktop.
+
+![QQ Penguin displayed on the Codex desktop](assets/desktop-preview.png)
+
 ## 中文
 
 一个可用于 Codex 的圆润企鹅动画宠物：橙色围巾、喙和脚掌，包含待机、移动、挥手、跳跃、失败、等待、工作、审阅及 16 向视线动作。
