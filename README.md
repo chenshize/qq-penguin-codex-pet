@@ -8,7 +8,7 @@
 
 在 Codex 桌面中的实际显示效果。 / The pet as it appears on the Codex desktop.
 
-![QQ Penguin displayed on the Codex desktop](assets/desktop-preview.png)
+<img src="assets/desktop-preview.png" alt="QQ Penguin displayed on the Codex desktop" width="366">
 
 ## 中文
 
